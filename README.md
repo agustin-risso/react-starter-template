@@ -2,12 +2,12 @@
 
 Starter base para proyectos en React con:
 
-- Vite + React + TypeScript
+- Vite + React
 - Tailwind CSS
 - React Router DOM
 - React Hook Form + Yup
 - TanStack React Query
-- Axios + Zod
+- Axios
 - clsx para clases condicionales
 
 ## Uso rápido
