@@ -13,7 +13,7 @@ Starter base para proyectos en React con:
 ## Uso rápido
 
 ```bash
-npx degit usuario/mi-starter nombre-proyecto
+npx degit agustin-risso/react-starter-template nombre-proyecto
 cd nombre-proyecto
 npm install
 npm run dev
